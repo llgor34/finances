@@ -3,12 +3,12 @@ import 'firebase/firestore';
 import 'firebase/auth';
 
 const firebaseConfig = {
-  apiKey: 'AIzaSyB0bez0OFQBN2QqRIVWT-uWvvXXMDZufec',
-  authDomain: 'my-money-a0335.firebaseapp.com',
-  projectId: 'my-money-a0335',
-  storageBucket: 'my-money-a0335.appspot.com',
-  messagingSenderId: '480191043592',
-  appId: '1:480191043592:web:4314945ad335b8a09659bd',
+  apiKey: '',
+  authDomain: '',
+  projectId: '',
+  storageBucket: '',
+  messagingSenderId: '',
+  appId: '',
 };
 
 // init firebase
